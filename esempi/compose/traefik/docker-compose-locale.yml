@@ -1,0 +1,9 @@
+version: '3'
+services:
+  mondo:
+    ports:
+      - "27017:27017"
+
+  redis:
+    ports:
+      - "6379:6379"
