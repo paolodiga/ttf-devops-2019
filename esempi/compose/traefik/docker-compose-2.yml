@@ -16,7 +16,7 @@ services:
   redis:
     image: redis:alpine
     restart: on-failure
-    ports: 
+    ports:
       - "6379:6379"
     command: --appendonly yes
     volumes:
@@ -36,7 +36,7 @@ services:
   mongo:
     image: mongo
     restart: on-failure
-    ports: 
+    ports:
       - "27017:27017"
     volumes:
       - mongo_volume:/data/db
