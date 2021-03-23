@@ -1,5 +1,6 @@
 # Tech Talent Factory - DevOps Class 2020
 
+Esercizio svolto in gruppo, si trova nella repository di Giacomo Cazzaniga (https://github.com/giacomocazzaniga/ttf-devops-2019) 
 ## Visione del Prodotto
 Creare un convertitore di spazio colore tra i seguenti formati: HEX, RGB, HSL e CMYK. Il prodotto deve poter convertire
 un colore fornito in uno qualsiasi dei formati gestiti a uno degli altri. Questo prodotto sarà raggiungibile tramite
